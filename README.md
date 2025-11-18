@@ -113,7 +113,7 @@ python manage.py runserver
 
 
 Backend will be live at:
-👉 http://127.0.0.1:8000/
+👉 https://e-commerce-backend-prodev-be.onrender.com/
 
 🔑 API Endpoints
 🔐 Authentication
